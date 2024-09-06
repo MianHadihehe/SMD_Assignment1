@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="page1_heading">SENDER DETAILS</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Full Name</string>
+    <string name="info_hint">Contact Information</string>
+    <string name="country_hint">Country</string>
+    <string name="address_hint">Address</string>
+    <string name="next">NEXT</string>
+    <string name="page2_heading">RECEIVER DETAILS</string>
+    <string name="page3_heading">Review Information</string>
+    <string name="table_heading1">Name</string>
+    <string name="table_heading2">Country</string>
+    <string name="table_heading3">Address</string>
+    <string name="table_heading4">Contact Info</string>
+    <string name="arrow_icon">arrow_icon</string>
+    <string name="add_new_item">add_new_item</string>
+</resources>

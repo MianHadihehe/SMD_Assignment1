@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">40sp</dimen>
+    <dimen name="headingPadding">20dp</dimen>
+    <dimen name="marginTop">20dp</dimen>
+    <dimen name="left_right_margin">20dp</dimen>
+    <dimen name="input_padding">15dp</dimen>
+    <dimen name="input_padding_left">35dp</dimen>
+    <dimen name="button_padding">20dp</dimen>
+    <dimen name="button_width">190dp</dimen>
+    <dimen name="initial_margin">30dp</dimen>
+    <dimen name="table_heading">22sp</dimen>
+    <dimen name="table_margin">8dp</dimen>
+    <dimen name="padding_table_start">20dp</dimen>
+    <dimen name="padding_table_start_secondary">7dp</dimen>
+    <dimen name="table_heading_body">18sp</dimen>
+    <dimen name="float_margin">40dp</dimen>
+    <dimen name="padding_body_row1_top">25dp</dimen>
+</resources>
